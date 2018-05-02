@@ -1,0 +1,70 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline;
+}
+
+h1{font-family: "din-bold";
+font-size: 20pt;
+line-height:20px;
+margin-top:48px;
+padding-left: 28em;
+
+
+}
+
+h2{
+	font-family: "blackletter";
+	font-size: 62pt;
+	line-height:20px;
+	margin-top:160px;
+	margin-bottom: -20px;
+
+
+}
+
+p{font-family: "bembo-Std";
+font-size: 14pt;
+line-height:27px;
+margin-top: 77px;
+margin-bottom:22px;
+
+}
+
+
+body {
+	width: 1200px;
+	margin: 0px auto;
+	font-weight: normal;
+	font-style: normal;
+	margin: 0px auto;
+    -webkit-font-smoothing: antialiased;
+		margin-bottom: 180px;
+}
+header, article {
+    width: 600px;
+    margin: 0px auto;
+}
+img {
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+}
+figure.left {
+    float: left;
+    width: 600px;
+    height: auto;
+    margin-left: -250px;
+}
+figure.left.aligned {
+    width: 350px;
+    margin-left: inherit;
+}
+figure.right {
+    float: right;
+    width: 600px;
+    height: auto;
+    margin-right: -250px;
+}
+figure.right.aligned {
+    width: 350px;
+    margin-right: inherit;
+}
